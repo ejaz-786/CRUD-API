@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 15px auto;
+}
+
+th , td {
+    padding: 10px;
+    font-size: 25px;
+    border: 1px solid rgb(17, 14, 14);
+}
